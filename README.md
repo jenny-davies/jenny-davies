@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jenny-davies
+- 👋 Hi, I’m Jenny
 - 👀 I’m interested in data analysis, automating workflows and data engineering
 - 🌱 I’m currently learning python 🐍
 - 💻 I use R, SQL and python
