@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jenny
-- 👀 I’m interested in data analysis, automating workflows and data engineering
+- 👀 I’m interested in data science and automating workflows
 - 🌱 I’m currently learning python 🐍
 - 💻 I use R, SQL and python
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jenny-davies-3aba3aa8/)
