@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jenny
-- 👀 I’m interested in data science and automating workflows
-- 🌱 I’m currently learning python 🐍
+- 👀 I’m interested in turning analytical code into reusable software and automating routine tasks
 - 💻 I use R, SQL and python
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jenny-davies-3aba3aa8/)
 
 <!---
