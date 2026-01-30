@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jenny
-- 🏢 I'm currently a Research Data Scientist at Ealing Council's Health Determinants Research Collaboration
+- 🏢 I'm currently a Research Data Scientist in Ealing's Evidence and Learning for Health (HDRC) team
 - 👀 I’m interested in health data science and automating routine tasks
 - 💻 I use R, SQL and python
 - 🌱 At the minute I'm learning C++
